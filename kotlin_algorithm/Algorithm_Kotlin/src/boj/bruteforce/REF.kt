@@ -10,7 +10,7 @@ class REFs {
         val arr = Array(3) { _ -> Array<Int>(5) { 0 } }
 
         // 큐
-        val q: Queue<Int> = LinkedList<Int>()
+        val q: Queue<Int> = LinkedList()
 
         // 스택
         val stack = Stack<Int>()
